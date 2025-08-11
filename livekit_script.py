@@ -124,8 +124,8 @@ async def setup_livekit_connection():
     participant_name = "AI_Assistant"  # Different from client participant
     
     # You can also load these from environment variables for security
-    # api_key = os.getenv("LIVEKIT_API_KEY", "APIAMrTXLVoxLqe")
-    # api_secret = os.getenv("LIVEKIT_API_SECRET", "3pFSQsUzLLeEEWrvO1hJaP4QA97CNeoMEkQA6wWSkuS")
+    # api_key = os.getenv("LIVEKIT_API_KEY", "xyyyy")
+    # api_secret = os.getenv("LIVEKIT_API_SECRET", "xyyy")
     # room = os.getenv("LIVEKIT_ROOM", "my_private_sales_room_2024")
     
     # Generate token for the AI assistant
